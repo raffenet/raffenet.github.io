@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 .page-header {
-  color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
   background-image: url(/images/tutorial-header.jpg);
 
   @include large {
