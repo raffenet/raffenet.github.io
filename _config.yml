@@ -1,4 +1,4 @@
-remote_theme: y7kim/agency-jekyll-theme
+theme: jekyll-theme-cayman
 
 title: MPI Tutorial
 description: Free Full-Day Tutorial on MPI
