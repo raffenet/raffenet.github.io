@@ -2,5 +2,3 @@ theme: jekyll-theme-cayman
 
 title: MPI Tutorial
 description: Free Full-Day Tutorial on MPI
-
-remote_theme: y7kim/agency-jekyll-theme
